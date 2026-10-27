@@ -1,0 +1,6 @@
+[
+  {"event":"acquire","process":"P0","resource":"A"},
+  {"event":"acquire","process":"P1","resource":"B"},
+  {"event":"wait","process":"P0","resource":"B"},
+  {"event":"wait","process":"P1","resource":"A"}
+]
