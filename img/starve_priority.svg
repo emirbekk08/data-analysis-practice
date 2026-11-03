@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="695" height="420" font-family="sans-serif" font-size="11"><rect width="100%" height="100%" fill="white"/>
+<text x="348" y="18" text-anchor="middle" font-size="13">starve.txt — Priority (голодание P1)</text>
+<line x1="40.0" y1="30" x2="40.0" y2="395" stroke="#ddd"/><text x="40.0" y="408" text-anchor="middle">0</text>
+<line x1="90.8" y1="30" x2="90.8" y2="395" stroke="#ddd"/><text x="90.8" y="408" text-anchor="middle">5</text>
+<line x1="141.6" y1="30" x2="141.6" y2="395" stroke="#ddd"/><text x="141.6" y="408" text-anchor="middle">10</text>
+<line x1="192.4" y1="30" x2="192.4" y2="395" stroke="#ddd"/><text x="192.4" y="408" text-anchor="middle">15</text>
+<line x1="243.2" y1="30" x2="243.2" y2="395" stroke="#ddd"/><text x="243.2" y="408" text-anchor="middle">20</text>
+<line x1="294.0" y1="30" x2="294.0" y2="395" stroke="#ddd"/><text x="294.0" y="408" text-anchor="middle">25</text>
+<line x1="344.8" y1="30" x2="344.8" y2="395" stroke="#ddd"/><text x="344.8" y="408" text-anchor="middle">30</text>
+<line x1="395.6" y1="30" x2="395.6" y2="395" stroke="#ddd"/><text x="395.6" y="408" text-anchor="middle">35</text>
+<line x1="446.3" y1="30" x2="446.3" y2="395" stroke="#ddd"/><text x="446.3" y="408" text-anchor="middle">40</text>
+<line x1="497.1" y1="30" x2="497.1" y2="395" stroke="#ddd"/><text x="497.1" y="408" text-anchor="middle">45</text>
+<line x1="547.9" y1="30" x2="547.9" y2="395" stroke="#ddd"/><text x="547.9" y="408" text-anchor="middle">50</text>
+<line x1="598.7" y1="30" x2="598.7" y2="395" stroke="#ddd"/><text x="598.7" y="408" text-anchor="middle">55</text>
+<line x1="649.5" y1="30" x2="649.5" y2="395" stroke="#ddd"/><text x="649.5" y="408" text-anchor="middle">60</text>
+<text x="35" y="43" text-anchor="end">P1</text>
+<text x="35" y="61" text-anchor="end">P2</text>
+<text x="35" y="79" text-anchor="end">P3</text>
+<text x="35" y="97" text-anchor="end">P4</text>
+<text x="35" y="115" text-anchor="end">P5</text>
+<text x="35" y="133" text-anchor="end">P6</text>
+<text x="35" y="151" text-anchor="end">P7</text>
+<text x="35" y="169" text-anchor="end">P8</text>
+<text x="35" y="187" text-anchor="end">P9</text>
+<text x="35" y="205" text-anchor="end">P10</text>
+<text x="35" y="223" text-anchor="end">P11</text>
+<text x="35" y="241" text-anchor="end">P12</text>
+<text x="35" y="259" text-anchor="end">P13</text>
+<text x="35" y="277" text-anchor="end">P14</text>
+<text x="35" y="295" text-anchor="end">P15</text>
+<text x="35" y="313" text-anchor="end">P16</text>
+<text x="35" y="331" text-anchor="end">P17</text>
+<text x="35" y="349" text-anchor="end">P18</text>
+<text x="35" y="367" text-anchor="end">P19</text>
+<text x="35" y="385" text-anchor="end">P20</text>
+<rect x="40.0" y="50" width="30.5" height="14" fill="#f28e2b" stroke="black" stroke-width="0.5"/>
+<rect x="70.5" y="68" width="30.5" height="14" fill="#e15759" stroke="black" stroke-width="0.5"/>
+<rect x="101.0" y="86" width="30.5" height="14" fill="#76b7b2" stroke="black" stroke-width="0.5"/>
+<rect x="131.4" y="104" width="30.5" height="14" fill="#59a14f" stroke="black" stroke-width="0.5"/>
+<rect x="161.9" y="122" width="30.5" height="14" fill="#edc948" stroke="black" stroke-width="0.5"/>
+<rect x="192.4" y="140" width="30.5" height="14" fill="#b07aa1" stroke="black" stroke-width="0.5"/>
+<rect x="222.9" y="158" width="30.5" height="14" fill="#ff9da7" stroke="black" stroke-width="0.5"/>
+<rect x="253.3" y="176" width="30.5" height="14" fill="#9c755f" stroke="black" stroke-width="0.5"/>
+<rect x="283.8" y="194" width="30.5" height="14" fill="#bab0ac" stroke="black" stroke-width="0.5"/>
+<rect x="314.3" y="212" width="30.5" height="14" fill="#4e79a7" stroke="black" stroke-width="0.5"/>
+<rect x="344.8" y="230" width="30.5" height="14" fill="#f28e2b" stroke="black" stroke-width="0.5"/>
+<rect x="375.2" y="248" width="30.5" height="14" fill="#e15759" stroke="black" stroke-width="0.5"/>
+<rect x="405.7" y="266" width="30.5" height="14" fill="#76b7b2" stroke="black" stroke-width="0.5"/>
+<rect x="436.2" y="284" width="30.5" height="14" fill="#59a14f" stroke="black" stroke-width="0.5"/>
+<rect x="466.7" y="302" width="30.5" height="14" fill="#edc948" stroke="black" stroke-width="0.5"/>
+<rect x="497.1" y="320" width="30.5" height="14" fill="#b07aa1" stroke="black" stroke-width="0.5"/>
+<rect x="527.6" y="338" width="30.5" height="14" fill="#ff9da7" stroke="black" stroke-width="0.5"/>
+<rect x="558.1" y="356" width="30.5" height="14" fill="#9c755f" stroke="black" stroke-width="0.5"/>
+<rect x="588.6" y="374" width="30.5" height="14" fill="#bab0ac" stroke="black" stroke-width="0.5"/>
+<rect x="619.0" y="32" width="61.0" height="14" fill="#4e79a7" stroke="black" stroke-width="0.5"/>
+</svg>
