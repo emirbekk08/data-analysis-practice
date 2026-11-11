@@ -1,0 +1,2 @@
+﻿documents,classes,train_documents,test_documents,accuracy,f1_macro,model,vectorizer
+7947,3,6357,1590,0.6993710691823899,0.6765492919501616,MultinomialNB,TF-IDF
